@@ -21,4 +21,3 @@ uv sync
 
 Then point your editor's Python plugin at the `.venv` directory. You should then have working
 autocomplete and type information in your editor.
-# cf-personal-learning
